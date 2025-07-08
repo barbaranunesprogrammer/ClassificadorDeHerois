@@ -1,6 +1,6 @@
 # Desafio de Projeto: Classificador de Nível de Herói - DIO
 
-Este repositório contém a minha solução para o desafio de projeto "Classificador de Nível de Herói", proposto no bootcamp **Formação Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), com a mentoria do professor Felipe Aguiar.
+Este repositório contém a minha solução para o desafio de projeto "Classificador de Nível de Herói", proposto no bootcamp **Formação Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), com a mentoria do professor (Felipe Aguiar)[https://github.com/felipeAguiarCode].
 
 ## 🎯 Objetivo do Desafio
 
@@ -30,7 +30,7 @@ A saída do programa deve exibir a mensagem:
 1.  **Clone o repositório:**
     ```bash
     git clone 
-    cd seu-repositorio
+    cd [seu-repositorio](https://github.com/barbaranunesprogrammer/ClassificadorDeHerois)
     ```
 
 2.  **Execute o script:**
